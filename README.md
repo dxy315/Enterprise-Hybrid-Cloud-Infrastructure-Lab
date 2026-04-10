@@ -57,3 +57,4 @@ Performed full hardware tasks, from physical racking to cabling and labeling in 
 
 ## 📩 Contact Info
 * **LinkedIn:** www.linkedin.com/in/ducduy8315
+* **Email:** ducduy.tran@techdata.com

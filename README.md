@@ -1,2 +1,2 @@
 # Enterprise-Hybrid-Cloud-Infrastructure-Lab
-3-Node Nutanix HCI, Juniper Networking, and HPE Server Lifecycle Management project at Tech Data APAC
+3-Node Nutanix HCI (ESXi), Juniper Networking & HPE Server Lifecycle Management at Tech Data APAC.
